@@ -1,6 +1,6 @@
 {
     "name": "mp/id-copy",
-    "description": "A Laravel Nova field.",
+    "description": "Laravel Nova field component that adds a “copy to clipboard” button for ID fields.",
     "keywords": [
         "laravel",
         "nova"
@@ -24,9 +24,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-
     "repositories": [
         {
             "type": "vcs",
